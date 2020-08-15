@@ -24,7 +24,6 @@ import Data.Text            (Text)
 import Gen.Types
 
 import Formatting          hiding (left, right)
-import Formatting.Internal (runFormat)
 import Formatting.Time     hiding (fmt)
 
 import qualified Data.CaseInsensitive   as CI
